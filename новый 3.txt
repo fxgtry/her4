@@ -1,0 +1,31 @@
+<html lang="en"><head><meta charset="utf-8">
+<html>
+<head><style></style></head>
+<body>
+<div><img src="file:///C:/Users/av373/Downloads/2022-11-10_14-17-40.png"></div>
+<div>
+<div>
+<ul>
+<li><a href="#vasya"><div><img src="vasya.png" /><div><div>Вася</div><div>Пойдём гулять после ...</div></div><div>14:22</div></div></a></li>
+<li><a href="#oleg"><div><img src="oleg.png" /><div><div>Олег</div><div>Когда встретимся с Васей?</div></div><div>14:37</div></div></a></li>
+<li><a href="#igor"><div><img src="igor.png" /><div><div>Игорь</div><div>Nc3</div></div><div>15:00</div></div></a></li>
+</ul>
+</div>
+<div>
+<div><div>Игорь</div><div>last seen: now</div></div>
+<div>
+<div>September 12</div>
+<div><span>Игорь, давай в шахматы!<br/>Я черными.</span><span>14:55</span></div>
+<div><span>Поехали. e2-e4.</span><span>14:58</span></div>
+<div><span>e7-e5</span><span>14:59</span></div>
+<div><span>Nc3</span><span>15:00</span></div>
+</div>
+<div>
+<form action="/send_message" method="POST">
+<textarea></textarea>
+<button type="submit"><img src="send.png"></button>
+</form>
+</div>
+</div>
+</div>
+</body>
